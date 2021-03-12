@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+body {
+    background-image: url('https://image2___.freepik.com/vector-gratis/desarrollo-web_73903-164.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(218, 218, 218);
+    color: #ff8c00;
+    font-family: "Didact Gothic";
+}
+a {
+    border: 1px solid black;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#titulo {
+    font-size: xx-large;
+    width: 30%;
+    float: left;
+}
+a:link,a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    background-color: #ff8c00;
+    color: rgb(218, 218, 218);
+}
